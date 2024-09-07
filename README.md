@@ -1,6 +1,6 @@
 # Devops_Tooling_Website_Solution_101_103
 
-## Devops_Tooling_Website_Solution_102
+## Devops_Tooling_Website_Solution_101
 
 In this project we will implement a solution that consists of following components:
 
